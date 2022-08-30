@@ -371,23 +371,30 @@ section{
     resize: none;
 }
 
+.logos {
+    height: 100px;
+  }
+.footer{
+    background-color: rgb(83, 55, 2);
+}
 .footer .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(23rem, 1fr));
     gap:1.5rem;
+    
 }
 
 .footer .box-container .box h3{
     font-size: 2.5rem;
     padding:1rem 0;
-    color:var(--main-color);
+    color:rgba(250, 138, 10, 0.863);
 }
 
 .footer .box-container .box a{
     display: block;
-    font-size: 1.5rem;
+    font-size:2rem;
     padding:1rem 0;
-    color:var(--main-color);
+    color:rgba(250, 138, 10, 0.863);
 }
 
 .footer .box-container .box a i{
@@ -403,11 +410,11 @@ section{
     font-size: 2rem;
     padding:2rem 1rem;
     margin-top: 1rem;
-    color:var(--main-color);
+    color:rgba(250, 138, 10, 0.863);
 }
 
 .footer .credit span{
-    border-bottom: var(--border-hover);
+    color:rgba(250, 138, 10, 0.863);
 }
 
 

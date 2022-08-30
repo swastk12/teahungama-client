@@ -202,7 +202,7 @@ const Landing = () => {
 
 
 <section id="testimonial">
-        <div class="container">
+        <div class="container-fluid ">
             <div class="row">
                 <div class="col-12">
                     <div class="section-title">
@@ -265,23 +265,34 @@ const Landing = () => {
     </section>
 
 
+    <section class="hero mt-5">
+     
+     <div class="intro">
+       <div>
+         <h1>Our Coffee Is</h1>
+         <h2>A Never Ending Story</h2>
+       </div>
+       <div>
+       
+       </div>
+     </div>
+     <div class="hero-bg">
+       <img src=" imagess/burger.png" alt="cup of coffee" />
+     </div>
+     
+   </section>
 
 
 
 
-
-<section class="footer">
+<section class="footer mt-5">
 
     <div class="box-container">
 
-
-        <div class="box">
-            <h3>quick links</h3>
-            <a href="#"> <i class="fas fa-arrow-right"></i> home </a>
-            <a href="#"> <i class="fas fa-arrow-right"></i> about </a>
-            <a href="#"> <i class="fas fa-arrow-right"></i> menu </a>
-            <a href="#"> <i class="fas fa-arrow-right"></i> blog </a>
-        </div>
+    <div class="logo-container">
+                <img class="logos" src="/image/TEA LOGO FINAL.png" alt="Logo"/>
+            </div>
+    
 
         <div class="box">
             <h3>contact info</h3>

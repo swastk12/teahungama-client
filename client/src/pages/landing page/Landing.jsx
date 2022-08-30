@@ -269,8 +269,7 @@ const Landing = () => {
      
      <div class="intro">
        <div>
-         <h1>Our Coffee Is</h1>
-         <h2>A Never Ending Story</h2>
+       
        </div>
        <div>
        

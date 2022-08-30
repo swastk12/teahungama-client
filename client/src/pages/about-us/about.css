@@ -507,14 +507,7 @@ body {
 
 
 
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: "Josefin Sans", sans-serif;
-    scroll-behavior: smooth;
-    font-size: 17px;
-  }
+
   :root {
     --blue: #ee8700;
     --black: #eee7e7;

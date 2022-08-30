@@ -101,7 +101,7 @@ clip-path: polygon(0% 0%, 100% 0, 100% 50%, 100% 100%, 0% 100%);
   border-radius: 5px;
 }
 .menu_content {
-  padding-left: 200px;
+  padding-left: 166px;
 }
 .menu_content h4 {
   font-size: 25px;
@@ -121,6 +121,18 @@ clip-path: polygon(0% 0%, 100% 0, 100% 50%, 100% 100%, 0% 100%);
   font-weight: 200;
   font-size: 16px;
   letter-spacing: 1px;
+}
+.ptag{
+  padding-top: 100px;
+}
+@media (max-width: 450px) {
+  .single_menu img{
+    width: 45%;
+  }
+  .nav-link {
+  
+  margin:auto;
+  }
 }
 .menu_btn.btn.btn-danger {
   margin: 0 auto;

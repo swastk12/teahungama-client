@@ -19,7 +19,7 @@ html{
 
 section{
     padding:2rem 9%;
-    padding-right: 50px;
+   margin: auto;
 }
 
 .heading{
@@ -155,17 +155,20 @@ section{
     }
 }
 
-.about .row .content{
+.about .row .contents{
     flex:1 1 42rem;
+    margin: auto !important;
+    padding-left: 50px;
 }
 
-.about .row .content .title{
+.about .row .contents .title{
+    margin: auto !important;
     color:var(--main-color);
     font-size: 2rem;
     line-height: 1.8;
 }
 
-.about .row .content p{
+.about .row .contents p{
     color:var(--main-color);
     font-size: 1.5rem;
     line-height: 1.8;
@@ -173,7 +176,7 @@ section{
     padding-right: 5rem;
 }
 
-.about .row .content .icons-container{
+.about .row .contents .icons-containerss{
     display: flex;
     flex-wrap: wrap;
     gap:1rem;
@@ -181,7 +184,7 @@ section{
     padding-right: 10rem;
 }
 
-.about .row .content .icons-container .icons{
+.about .row .contents .icons-containerss .iconss{
     flex:1 1 15rem;
     padding:1.5rem;
     text-align: center;
@@ -189,11 +192,11 @@ section{
     border-radius: var(--border-radius);
 }
 
-.about .row .content .icons-container .icons img{
+.about .row .contents .icons-containerss .iconss img{
     height: 5rem;
 }
 
-.about .row .content .icons-container .icons h3{
+.about .row .contents .icons-container .iconss h3{
     font-size: 1rem;
     padding-top: 1rem;
     color:var(--main-color);

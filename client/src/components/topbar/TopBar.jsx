@@ -15,7 +15,7 @@ export default function Topbar() {
 
 <div class="nav-wrapper">
             <div class="logo-container">
-                <img class="logo" src="imagess/future academy.png" alt="Logo"/>
+                <img class="logo" src="/image/TEA LOGO FINAL.png" alt="Logo"/>
             </div>
             <nav>
                 <input class="hidden" type="checkbox" id="menuToggle"/>
@@ -28,8 +28,8 @@ export default function Topbar() {
                     <ul class="nav-tabs">
                       
                         <a href="/"><li class="nav-tab">HOME</li></a>
-                        <a href="/feedback"><li class="nav-tab">Feedback</li></a>
-                        <a href="/about"><li class="nav-tab">About-us</li></a>
+                        <a href="/about"><li class="nav-tab">ABOUT</li></a>
+                        <a href="/menu"><li class="nav-tab">MENU</li></a>
                         <a href="/Mailer"><li class="nav-tab">Booking</li></a>
                     </ul>
                 </div>

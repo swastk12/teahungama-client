@@ -81,7 +81,7 @@ const Landing = () => {
 
 
 
- <section class="menu" id="menu">
+ <section class="menus" id="menu">
 
 <h1 class="heading"> our menu <span>Menu Categories</span> </h1>
 
@@ -89,7 +89,7 @@ const Landing = () => {
 
     <a href="#" class="box">
         <img src="image/menu-1.png" alt=""/>
-        <div class="content">
+        <div class="contents">
             <h3>our special Chai</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, id.</p>
             <span>view more</span>
@@ -98,7 +98,7 @@ const Landing = () => {
 
     <a href="#" class="box">
         <img src="image/menu-2.png" alt=""/>
-        <div class="content">
+        <div class="contents">
             <h3>our special coffee</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, id.</p>
             <span>view more</span>
@@ -107,7 +107,7 @@ const Landing = () => {
 
     <a href="#" class="box">
         <img src="./image/pizza.png" alt=""/>
-        <div class="content">
+        <div class="contents">
             <h3>our special pizza</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, id.</p>
             <span>view more</span>
@@ -116,7 +116,7 @@ const Landing = () => {
 
     <a href="#" class="box">
         <img src="./image/burger_122704.png" alt=""/>
-        <div class="content">
+        <div class="contents">
             <h3>our special burgers</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, id.</p>
             <span>view more</span>
@@ -125,7 +125,7 @@ const Landing = () => {
 
     <a href="#" class="box">
         <img src="./image/sandwich.png" alt=""/>
-        <div class="content">
+        <div class="contents">
             <h3>our special sandwich</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, id.</p>
             <span>view more</span>
@@ -134,7 +134,7 @@ const Landing = () => {
 
     <a href="#" class="box">
         <img src="./image/pasta.png" alt=""/>
-        <div class="content">
+        <div class="contents">
             <h3>our special shake</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, id.</p>
             <span>view more</span>

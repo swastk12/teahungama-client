@@ -29,7 +29,7 @@ function About() {
           </p>
         </div>
         <div class="about-img">
-          <img src="imagess/teahu-2.jpg" alt="food" />
+          <img src="imagess/pics-10.jpg" alt="food" />
         </div>
       </div>
     </section>
@@ -113,7 +113,7 @@ function About() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
               quae.
             </p>
-            <p class="food-price">Price: &#8377; 250</p>
+           
           </div>
         </div>
 
@@ -127,7 +127,7 @@ function About() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
               quae.
             </p>
-            <p class="food-price">Price: &#8377; 250</p>
+           
           </div>
         </div>
         <div class="food-menu-item">
@@ -140,7 +140,7 @@ function About() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
               quae.
             </p>
-            <p class="food-price">Price: &#8377; 250</p>
+           
           </div>
         </div>
         <div class="food-menu-item">
@@ -153,7 +153,7 @@ function About() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
               quae.
             </p>
-            <p class="food-price">Price: &#8377; 250</p>
+           
           </div>
         </div>
         <div class="food-menu-item">
@@ -166,7 +166,7 @@ function About() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
               quae.
             </p>
-            <p class="food-price">Price: &#8377; 250</p>
+           
           </div>
         </div>
         <div class="food-menu-item">
@@ -179,7 +179,7 @@ function About() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
               quae.
             </p>
-            <p class="food-price">Price: &#8377; 250</p>
+           
           </div>
         </div>
       </div>

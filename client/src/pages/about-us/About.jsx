@@ -29,16 +29,16 @@ function About() {
           </p>
         </div>
         <div class="about-img">
-          <img src="https://i.postimg.cc/mgpwzmx9/about-photo.jpg" alt="food" />
+          <img src="imagess/teahu-2.jpg" alt="food" />
         </div>
       </div>
     </section>
     <section id="food">
-      <h2>Types of food</h2>
+      <h2>WELCOME OUR CAFEE</h2>
       <div class="food-container container">
         <div class="food-type fruite">
           <div class="img-container">
-            <img src="https://i.postimg.cc/yxThVPXk/food1.jpg" alt="error" />
+            <img src="imagess/teahu-5.jpg" alt="error" />
             <div class="img-content">
               <h3>fruite</h3>
               <a
@@ -52,7 +52,7 @@ function About() {
         </div>
         <div class="food-type vegetable">
           <div class="img-container">
-            <img src="https://i.postimg.cc/Nffm6Rkk/food2.jpg" alt="error" />
+            <img src="imagess/teahu-2.jpg" alt="error" />
             <div class="img-content">
               <h3>vegetable</h3>
               <a
@@ -66,7 +66,7 @@ function About() {
         </div>
         <div class="food-type grin">
           <div class="img-container">
-            <img src="https://i.postimg.cc/76ZwsPsd/food3.jpg" alt="error" />
+            <img src="imagess/teahu-6.jpg" alt="error" />
             <div class="img-content">
               <h3>grin</h3>
               <a
@@ -78,6 +78,7 @@ function About() {
             </div>
           </div>
         </div>
+        
       </div>
     </section>
 
@@ -89,7 +90,7 @@ function About() {
           <h2>A Never Ending Story</h2>
         </div>
         <div>
-          <button>See Nearest Location</button>
+          
         </div>
       </div>
       <div class="hero-bg">
@@ -100,11 +101,11 @@ function About() {
 
 
     <section id="food-menu">
-      <h2 class="food-menu-heading">Food Menu</h2>
+      <h2 class="food-menu-heading">About</h2>
       <div class="food-menu-container container">
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://i.postimg.cc/wTLMsvSQ/food-menu1.jpg" alt="" />
+            <img src="imagess/teahu-5.jpg" alt="" />
           </div>
           <div class="food-description">
             <h2 class="food-titile">Food Menu Item 1</h2>
@@ -117,11 +118,8 @@ function About() {
         </div>
 
         <div class="food-menu-item">
-          <div class="food-img">
-            <img
-              src="https://i.postimg.cc/sgzXPzzd/food-menu2.jpg"
-              alt="error"
-            />
+        <div class="food-img">
+            <img src="imagess/teahu-4.jpg" alt="" />
           </div>
           <div class="food-description">
             <h2 class="food-titile">Food Menu Item 2</h2>
@@ -134,7 +132,7 @@ function About() {
         </div>
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://i.postimg.cc/8zbCtYkF/food-menu3.jpg" alt="" />
+            <img src="imagess/teahu.jpg" alt="" />
           </div>
           <div class="food-description">
             <h2 class="food-titile">Food Menu Item 3</h2>
@@ -147,7 +145,7 @@ function About() {
         </div>
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://i.postimg.cc/Yq98p5Z7/food-menu4.jpg" alt="" />
+            <img src="imagess/teahu-7.jpg" alt="" />
           </div>
           <div class="food-description">
             <h2 class="food-titile">Food Menu Item 4</h2>
@@ -160,7 +158,7 @@ function About() {
         </div>
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://i.postimg.cc/KYnDqxkP/food-menu5.jpg" alt="" />
+            <img src="imagess/teahu-6.jpg" alt="" />
           </div>
           <div class="food-description">
             <h2 class="food-titile">Food Menu Item 5</h2>
@@ -173,7 +171,7 @@ function About() {
         </div>
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://i.postimg.cc/Jnxc8xQt/food-menu6.jpg" alt="" />
+            <img src="imagess/teahu-0.jpg" alt="" />
           </div>
           <div class="food-description">
             <h2 class="food-titile">Food Menu Item 6</h2>
@@ -192,7 +190,7 @@ function About() {
         <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-              <img src="https://i.postimg.cc/5Nrw360Y/male-photo1.jpg" alt="" />
+              <img src="imagess/pics-14.jpg" alt="" />
               <p class="customer-name">Ross Lee</p>
             </div>
           </div>
@@ -213,7 +211,7 @@ function About() {
           <div class="customer-detail">
             <div class="customer-photo">
               <img
-                src="https://i.postimg.cc/sxd2xCD2/female-photo1.jpg"
+                src="imagess/pics-7.jpg"
                 alt=""
               />
               <p class="customer-name">Amelia Watson</p>
@@ -235,7 +233,7 @@ function About() {
         <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-              <img src="https://i.postimg.cc/fy90qvkV/male-photo3.jpg" alt="" />
+              <img src="imagess/pics-8.jpg" alt="" />
               <p class="customer-name">Ben Roy</p>
             </div>
           </div>
@@ -258,21 +256,21 @@ function About() {
 <section >
 <h2 class="testimonial-title">Our Hotel Ambience</h2>
 <div id="gallery" class="container-fluid ">
-  <img src="https://source.unsplash.com/1600x1200?female,portrait" class="img-responsive"/>
-  <img src="https://source.unsplash.com/1024x768?female,portrait" class="img-responsive"/>
-   <img src="https://source.unsplash.com/1366x768?female,portrait" class="img-responsive"/>
-  <img src="https://source.unsplash.com/1920x1080?female,portrait" class="img-responsive"/>
-  <img src="https://source.unsplash.com/640x360?female,portrait" class="img-responsive"/>
-<img src="https://source.unsplash.com/320x640?female,portrait" class="img-responsive"/>
-  <img src="https://source.unsplash.com/1200x1600?female,portrait" class="card img-responsive"/>
-  <img src="https://source.unsplash.com/800x600?female,portrait" class="img-responsive"/>
-  <img src="https://source.unsplash.com/600x800?female,portrait" class="img-responsive"/>
-  <img src="https://source.unsplash.com/400x600?female,portrait" class="img-responsive"/>
-  <img src="https://source.unsplash.com/600x400?female,portrait" class="img-responsive"/>
-<img src="https://source.unsplash.com/1100x1600?female,portrait" class="img-responsive"/>
-<img src="https://source.unsplash.com/1600x1100?female,portrait" class="img-responsive"/>
-<img src="https://source.unsplash.com/992x768?female,portrait" class="img-responsive"/>
-<img src="https://source.unsplash.com/768x992?female,portrait" class="img-responsive"/>
+  <img src="imagess/teahu.jpg" class="img-responsive" />
+  <img src="imagess/teahu-2.jpg" class="img-responsive"/>
+   <img src="imagess/teahu-3.jpg" class="img-responsive"/>
+  <img src="imagess/pics-15.jpg" class="img-responsive"/>
+  <img src="imagess/teahu-5.jpg" class="img-responsive"/>
+<img src="imagess/teahu-6.jpg" class="img-responsive"/>
+  <img src="imagess/teahu-7.jpg" class="card img-responsive"/>
+  <img src="imagess/pics-13.jpg" class="img-responsive"/>
+  <img src="imagess/pics-14.jpg" class="img-responsive"/>
+  <img src="imagess/pics-6.jpg" class="img-responsive"/>
+  <img src="imagess/pics-7.jpg" class="img-responsive"/>
+<img src="imagess/pics-8.jpg" class="img-responsive"/>
+<img src="imagess/pics-10.jpg" class="img-responsive"/>
+<img src="imagess/pics-11.jpg" class="img-responsive"/>
+<img src="imagess/pics-12.jpg" class="img-responsive"/>
 </div>
 
 </section>

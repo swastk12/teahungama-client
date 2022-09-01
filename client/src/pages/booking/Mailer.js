@@ -21,6 +21,7 @@ const Mailer = () =>{
 
 
 <section>
+<h1 className='hs'> Feedback us </h1>
 <div id="form-main">
   <div id="form-div">
     <form class="form" id="form1"  ref={form} onSubmit={sendEmail}>

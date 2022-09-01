@@ -270,14 +270,15 @@ const Landing = () => {
      <div class="intro">
        <div>
        
-         <h2>A Never Ending Story</h2>
+         <h2>WELCOME</h2>
+         <h2>Good foo good life</h2>
        </div>
        <div>
        
        </div>
      </div>
      <div class="hero-bg">
-       <img src=" imagess/burger.png" alt="cup of coffee" />
+       <img src=" imagess/pasta.png" alt="cup of coffee" />
      </div>
      
    </section>
@@ -296,19 +297,19 @@ const Landing = () => {
 
         <div class="box">
             <h3>contact info</h3>
-            <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
+            <a href="#"> <i class="fas fa-phone"></i> +8250400962 </a>
             <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-            <a href="#"> <i class="fas fa-envelope"></i> wilmee@gmail.com </a>
-            <a href="#"> <i class="fas fa-envelope"></i> kolkata, india </a>
+            <a href="#"> <i class="fas fa-envelope"></i> teahungama@gmail.com </a>
+            <a href="#"> <i class="fas fa-envelope"></i> Newtown Rd, near unitech, Newtown,kolkata, west beangal 700156 </a>
         </div>
 
         <div class="box">
             <h3>contact info</h3>
             <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
             <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-            <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
+         
             <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-            <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
+    
         </div>
 
     </div>

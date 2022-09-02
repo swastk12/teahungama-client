@@ -206,9 +206,14 @@ button
   flex-direction: column;
   justify-content: space-evenly;
 }
-.content-box p {
-  color: #a6a6a6;
+.content-box p  {
+  color: #fff9f9;
   font-size: 13px;
+}
+
+.content-box h4  {
+  color: #fff9f9;
+
 }
 
 .btns {

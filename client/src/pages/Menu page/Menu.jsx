@@ -20,7 +20,7 @@ function Menu() {
                     <div class="row">
                     
                         <div class="col-lg-10 col-12 mx-auto">
-                            <h1 class="text-white tex pt-5">Our Menus</h1>
+                            <a href='/'><h1 class="text-white tex pt-5">Our Menus</h1></a> 
 
                             <strong class="text-white ">Perfect for all Breakfast, Lunch and Dinner</strong>
                         </div>
@@ -985,7 +985,7 @@ function Menu() {
     <p>Onion, Lettuce, Tomatoe, Patty, Cheese</p>
     <div class="btns">
       <h2 class="price">$ 5</h2>
-      <a href="#">Order Now</a>
+      
     </div>
   </div>
 </div>
@@ -1000,7 +1000,7 @@ function Menu() {
     <p>Onion, Lettuce, Tomatoe, Patty, Cheese</p>
     <div class="btns">
       <h2 class="price">$ 5</h2>
-      <a href="#">Order Now</a>
+      
     </div>
   </div>
 </div>
@@ -1015,7 +1015,7 @@ function Menu() {
     <p>Onion, Lettuce, Tomatoe, Patty, Cheese</p>
     <div class="btns">
       <h2 class="price">$ 5</h2>
-      <a href="#">Order Now</a>
+      
     </div>
   </div>
 </div>
@@ -1039,7 +1039,7 @@ function Menu() {
     <p>Onion, Lettuce, Tomatoe, Patty, Cheese</p>
     <div class="btns">
       <h2 class="price">$ 5</h2>
-      <a href="#">Order Now</a>
+      
     </div>
   </div>
 </div>
@@ -1054,7 +1054,7 @@ function Menu() {
     <p>Onion, Lettuce, Tomatoe, Patty, Cheese</p>
     <div class="btns">
       <h2 class="price">$ 5</h2>
-      <a href="#">Order Now</a>
+      
     </div>
   </div>
 </div>
@@ -1069,7 +1069,7 @@ function Menu() {
     <p>Onion, Lettuce, Tomatoe, Patty, Cheese</p>
     <div class="btns">
       <h2 class="price">$ 5</h2>
-      <a href="#">Order Now</a>
+      
     </div>
   </div>
 </div>
@@ -1093,7 +1093,7 @@ function Menu() {
     <p>Onion, Lettuce, Tomatoe, Patty, Cheese</p>
     <div class="btns">
       <h2 class="price">$ 5</h2>
-      <a href="#">Order Now</a>
+      
     </div>
   </div>
 </div>
@@ -1108,7 +1108,7 @@ function Menu() {
     <p>Onion, Lettuce, Tomatoe, Patty, Cheese</p>
     <div class="btns">
       <h2 class="price">$ 5</h2>
-      <a href="#">Order Now</a>
+      
     </div>
   </div>
 </div>
@@ -1119,11 +1119,11 @@ function Menu() {
   <img src="https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Zm9vZCUyMGNoaWNrZW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" />
   <div class="content-box">
     <h4 class="name">Veggie Burguer</h4>
-    <p>A burguer typically considered a sandwich, consisting of one or more cooked patties-usually placed inside a sliced bread roll or bun</p>
+    <p >A burguer typically considered a sandwich, consisting of one or more cooked patties-usually placed inside a sliced bread roll or bun</p>
     <p>Onion, Lettuce, Tomatoe, Patty, Cheese</p>
     <div class="btns">
       <h2 class="price">$ 5</h2>
-      <a href="#">Order Now</a>
+      
     </div>
   </div>
 </div>

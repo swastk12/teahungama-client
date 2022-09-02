@@ -20,8 +20,8 @@ const Landing = () => {
         <div class="row">
           <div class="content">
             <h3>Always feel special with us</h3>
-            <a href="#" class="btn">
-              buy now
+            <a href="/about" class="btn">
+              Explore us
             </a>
           </div>
 
@@ -53,7 +53,7 @@ const Landing = () => {
     <div class="contents">
         <h3 class="title">what's make our cafe special!</h3>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse et commodi, ad, doloremque obcaecati maxime quam minima dolore mollitia saepe quos, debitis incidunt. Itaque possimus adipisci ipsam harum at autem.</p>
-        <a href="#" class="btn">read more</a>
+        <a href="/Mailer" class="btn"> Contact us</a>
         <div class="icons-containerss pl-5">
             <div class="iconss">
                 <img src="image/about-icon-1.png" alt=""/>

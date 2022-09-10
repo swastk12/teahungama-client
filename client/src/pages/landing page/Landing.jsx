@@ -52,7 +52,7 @@ const Landing = () => {
 
     <div class="contents">
         <h3 class="title">what's make our cafe special!</h3>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse et commodi, ad, doloremque obcaecati maxime quam minima dolore mollitia saepe quos, debitis incidunt. Itaque possimus adipisci ipsam harum at autem.</p>
+        <p>Tea Hungama presents authentic delicious food with love that everyone can feel special. There are so many dishes in our café that you can enjoy in a soulful atmosphere with classy ambience</p>
         <a href="/Mailer" class="btn"> Contact us</a>
         <div class="icons-containerss pl-5">
             <div class="iconss">
@@ -91,7 +91,7 @@ const Landing = () => {
         <img src="image/menu-1.png" alt=""/>
         <div class="contents">
             <h3>our special Chai</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, id.</p>
+           
             <span>view more</span>
         </div>
     </a>
@@ -100,7 +100,7 @@ const Landing = () => {
         <img src="image/menu-2.png" alt=""/>
         <div class="contents">
             <h3>our special coffee</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, id.</p>
+           
             <span>view more</span>
         </div>
     </a>
@@ -109,7 +109,7 @@ const Landing = () => {
         <img src="./image/pizza.png" alt=""/>
         <div class="contents">
             <h3>our special pizza</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, id.</p>
+           
             <span>view more</span>
         </div>
     </a>
@@ -118,7 +118,7 @@ const Landing = () => {
         <img src="./image/burger_122704.png" alt=""/>
         <div class="contents">
             <h3>our special burgers</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, id.</p>
+           
             <span>view more</span>
         </div>
     </a>
@@ -127,7 +127,7 @@ const Landing = () => {
         <img src="./image/sandwich.png" alt=""/>
         <div class="contents">
             <h3>our special sandwich</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, id.</p>
+           
             <span>view more</span>
         </div>
     </a>
@@ -136,7 +136,7 @@ const Landing = () => {
         <img src="./image/pasta.png" alt=""/>
         <div class="contents">
             <h3>our special shake</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, id.</p>
+
             <span>view more</span>
         </div>
     </a>
@@ -160,7 +160,7 @@ const Landing = () => {
             <div class="swiper-slide box">
                 <i class="fas fa-quote-left"></i>
                 <i class="fas fa-quote-right"></i>
-                <img src="image/pic-1.png" alt=""/>
+                <img src="https://cdn.pixabay.com/photo/2017/06/13/12/51/thumb-2398752__340.png" alt=""/>
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -168,15 +168,15 @@ const Landing = () => {
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore aliquid eveniet qui, similique aut sit.</p>
-                <h3>john deo</h3>
+                <p>On a wet evening, we were seeking some tea and coffee and discovered this restaurant. A close second-best location for a hangout with friends where you can get some coffee and food. Good vibes and ambiance. Prices are affordable; they won't break the bank.</p>
+                <h3>Rohan das</h3>
                 <span>satisfied client</span>
             </div>
 
             <div class="swiper-slide box">
                 <i class="fas fa-quote-left"></i>
                 <i class="fas fa-quote-right"></i>
-                <img src="image/pic-2.png" alt=""/>
+                <img src="https://cdn.pixabay.com/photo/2017/06/13/12/51/thumb-2398752__340.png" alt=""/>
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -184,8 +184,8 @@ const Landing = () => {
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore aliquid eveniet qui, similique aut sit.</p>
-                <h3>john deo</h3>
+                <p>- The chicken momo I had was very good. The momos were delicious and soft, truly melting in the mouth. There were 8 in a pack for only Rs 69, and the chicken filling was more than sufficient. I gotta say, it was among the greatest momo I've ever tasted. The package included momo soup and the customary momo chutney. They both found it to be quite delicious. The momo soup was loaded with vegetables, a good amount of chicken chunks, and eggs. HAVE TO TRY!</p>
+                <h3>Indrojit dey</h3>
                 <span>satisfied client</span>
             </div>
 
@@ -222,7 +222,7 @@ const Landing = () => {
                             <div class="carousel-item active">
                                 <div class="carousel-content">
                                     <div class="client-img"><img src="image/pic-1.png" alt="Testimonial Slider"/></div>
-                                    <p><i>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form</i></p>
+                                    <p><i>This location has an incredible sense of authenticity. The variety and quality are outstanding, and the prices are so reasonable that you can easily eat enough of them! You should try the peri peri fries; they are delicious. If you enjoy tea, this place is ideal for you. The masala chai, chocolate chai, and many other varieties of chai start at only Rs. 15, and you will adore them. The employees here are really welcoming. I go here almost every other day and I strongly suggest. </i></p>
                                     <h3><span>-</span> Gourav Kumar <span>-</span></h3>
                                 </div>
                             </div>
@@ -230,7 +230,7 @@ const Landing = () => {
                             <div class="carousel-item">
                                 <div class="carousel-content">
                                     <div class="client-img">       <img src="image/pic-2.png" alt="Testimonial Slider"/></div>
-                                    <p><i>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. There are many variations of passages of Lorem Ipsum available. Lorem Ipsum is simply dummy text of the printing and typesetting industry</i></p>
+                                    <p><i> They serve delicious meals at fair prices, and the interior is really attractive. I would highly recommend.</i></p>
                                     <h3><span>-</span> Mukesh Kumar <span>-</span></h3>
                                 </div>
                             </div>
@@ -238,7 +238,7 @@ const Landing = () => {
                             <div class="carousel-item">
                                 <div class="carousel-content">
                                     <div class="client-img">       <img src="image/pic-3.png" alt="Testimonial Slider"/></div>
-                                    <p><i>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form. There are many variations of passages of Lorem Ipsum available. Lorem Ipsum is simply dummy text of the printing and typesetting industry</i></p>
+                                    <p><i>- The chicken momo I had was very good. The momos were delicious and soft, truly melting in the mouth. There were 8 in a pack for only Rs 69, and the chicken filling was more than sufficient. I gotta say, it was among the greatest momo I've ever tasted. The package included momo soup and the customary momo chutney. They both found it to be quite delicious. The momo soup was loaded with vegetables, a good amount of chicken chunks, and eggs. HAVE TO TRY!</i></p>
                                     <h3><span>-</span> Rajnish Kumar <span>-</span></h3>
                                 </div>
                             </div>
@@ -246,7 +246,7 @@ const Landing = () => {
                             <div class="carousel-item">
                                 <div class="carousel-content">
                                     <div class="client-img"><img src="image/pic-4.png" alt="Testimonial Slider"/></div>
-                                    <p><i>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form. There are many variations of passages of Lorem Ipsum available. Lorem Ipsum is simply dummy text of the printing and typesetting industry</i></p>
+                                    <p><i>Tea Hungama presents authentic delicious food with love that everyone can feel special. There are so many dishes in our café that you can enjoy in a soulful atmosphere with classy ambience.</i></p>
                                     <h3><span>-</span> Rajnish Kumar <span>-</span></h3>
                                 </div>
                             </div>

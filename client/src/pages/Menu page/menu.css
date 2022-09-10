@@ -736,6 +736,9 @@ body {
 .single-menu .menu-content p {
   
   font-size: 15px;
+  color: #be6715;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight:800;
 }
 
 
